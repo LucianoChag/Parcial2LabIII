@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection.PortableExecutable;
+﻿using System.Globalization;
 
 class Ecuacion
 {
@@ -195,13 +193,68 @@ static void ValidarOperandoMinimo(string input)
     }
 }
 
+static List<object> TokenizarExpresion(string expresion)
+//Tokeniza una expresión matemática en una lista de objetos que representan los elementos de la expresión.
+// Los números se convierten en valores double, y los operadores y otros caracteres se mantienen como cadenas.
+    {
+        List<object> tokens = new List<object>();
+        string token = "";
+
+        for (int i = 0; i < expresion.Length; i++)
+        {
+            char caracter = expresion[i];
+
+            if (char.IsWhiteSpace(caracter))
+                continue;
+
+            if (char.IsDigit(caracter) || caracter == '.')
+            {
+                token += caracter;
+            }
+            else
+            {
+                if (!string.IsNullOrEmpty(token))
+                {
+                    if (TryParseDouble(token, out double numero))
+                    {
+                        tokens.Add(numero);
+                    }
+                    else
+                    {
+                        throw new FormatException("Error al convertir el token a número: " + token);
+                    }
+                    token = "";
+                }
+                tokens.Add(caracter.ToString());
+            }
+        }
+
+        if (!string.IsNullOrEmpty(token))
+        {
+            if (TryParseDouble(token, out double numero))
+            {
+                tokens.Add(numero);
+            }
+            else
+            {
+                throw new FormatException("Error al convertir el token a número: " + token);
+            }
+        }
+
+        return tokens;
+    }
+
+    static bool TryParseDouble(string s, out double result)
+    {
+        return double.TryParse(s, NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture, out result);
+    }
 
 
     // MAIN
     static void Main(string[] args)
     {
         // INPUT INGRESADO POR EL USUARIO
-        string input = "+2-2";
+        string input = "2-33(4.5+9)/2";
 
         try
         {
@@ -225,6 +278,13 @@ static void ValidarOperandoMinimo(string input)
 
             // Verificamos que haya al menos un operando
             ValidarOperandoMinimo(input);
+
+        List<object> tokens = TokenizarExpresion(input);
+
+        foreach (var token in tokens)
+        {
+            Console.WriteLine(token);
+        }
 
             Console.WriteLine(input);
         }
