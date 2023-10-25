@@ -124,7 +124,10 @@ class Ecuacion
             char caracterActual = input[i];
             char caracSig = input[i + 1];
 
-            if (caracterActual == '/' && caracSig == '0')
+            if(caracterActual == '/' && input[input.Length - 1] == '0'){
+                throw new InvalidOperationException("División por cero detectada.");
+            }
+            else if (caracterActual == '/' && caracSig == '0')
             {
                 if (input[i + 2] == '.' && !Char.IsDigit(input[i + 3]))
                 {
@@ -440,7 +443,7 @@ static void RealizarCalculo(Stack<double> numeros, Stack<string> operadores)
     static void Main(string[] args)
     {
         // INPUT INGRESADO POR EL USUARIO
-        string input = "3(-2)"; //No resuelve resultados que comienzan negativos. Si termina con parentesis vacios no lo resuelve. Resolver tema del rango en división que finaliza con 0
+        string input = "3-4/(0+4)"; //No resuelve resultados que comienzan negativos. Resolver tema del rango en división que finaliza con 0
 
         try
         {
