@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\prueba.csproj",
+      "projectUniqueName": "C:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\prueba.csproj",
       "projectName": "prueba",
-      "projectPath": "c:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\prueba.csproj",
+      "projectPath": "C:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\prueba.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\obj\\",
+      "outputPath": "C:\\Users\\Lucia\\OneDrive\\Escritorio\\Facultad\\Programación\\3er Semestre\\Lab3\\Parcial2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"

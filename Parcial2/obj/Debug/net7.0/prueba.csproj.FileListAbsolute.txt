@@ -26,3 +26,31 @@ C:\Users\Lucia\OneDrive\Escritorio\Facultad\Programación\3er Semestre\Lab3\Parc
 C:\Users\Lucia\OneDrive\Escritorio\Facultad\Programación\3er Semestre\Lab3\Parcial2\obj\Debug\net7.0\prueba.pdb
 C:\Users\Lucia\OneDrive\Escritorio\Facultad\Programación\3er Semestre\Lab3\Parcial2\obj\Debug\net7.0\prueba.genruntimeconfig.cache
 C:\Users\Lucia\OneDrive\Escritorio\Facultad\Programación\3er Semestre\Lab3\Parcial2\obj\Debug\net7.0\ref\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.exe
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.deps.json
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.runtimeconfig.json
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.pdb
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.AssemblyInfoInputs.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.AssemblyInfo.cs
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\refint\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.pdb
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.genruntimeconfig.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Programación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\ref\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.exe
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.deps.json
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.runtimeconfig.json
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\bin\Debug\net7.0\prueba.pdb
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.AssemblyInfoInputs.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.AssemblyInfo.cs
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.csproj.CoreCompileInputs.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\refint\prueba.dll
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.pdb
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\prueba.genruntimeconfig.cache
+C:\Users\lucaa\Documents\Lucas\Tecnicatura en Programación\Laboratorio de Computación 3\Parcial2LabIII-main\Parcial2\obj\Debug\net7.0\ref\prueba.dll
