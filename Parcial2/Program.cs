@@ -82,6 +82,11 @@ class Ecuacion
                         "Previo a un paréntesis no puede haber un '.'."
                     );
                 }
+                if( caracSig == ')'){
+                    throw new InvalidOperationException(
+                        "Los parentesis no pueden estar vacios"
+                    );
+                }
             }
             else if (caracterActual == ')')
             {
@@ -435,7 +440,7 @@ static void RealizarCalculo(Stack<double> numeros, Stack<string> operadores)
     static void Main(string[] args)
     {
         // INPUT INGRESADO POR EL USUARIO
-        string input = "3/0.2"; //No resuelve resultados que comienzan negativos. Si termina con parentesis vacios no lo resuelve. Resolver tema del rango en división que finaliza con 0
+        string input = "3(-2)"; //No resuelve resultados que comienzan negativos. Si termina con parentesis vacios no lo resuelve. Resolver tema del rango en división que finaliza con 0
 
         try
         {
